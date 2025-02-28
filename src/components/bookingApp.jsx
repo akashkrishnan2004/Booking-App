@@ -21,7 +21,7 @@ export default function BookingApp() {
   return (
     <div className="min-h-screen flex flex-col items-center p-4 sm:p-6 bg-gray-900 text-white">
       <h1 className="text-2xl sm:text-3xl font-bold mb-4 text-center">
-        🎟 Seat Booking System
+        Seat Booking System
       </h1>
       <h2 className="mb-1 mt-5">All eyes this way please!</h2>
 
